@@ -5,6 +5,7 @@
 To build a complete neural network for Digit Recognition for MNIST dataset using Numpy. 
 
 The MNIST dataset is being used to train model to classify handwritten digits between 0-9.
+
 ![Neural Network Architecture](NN.gif)
 
 The steps involved are:
